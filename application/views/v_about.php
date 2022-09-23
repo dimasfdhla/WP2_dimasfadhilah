@@ -9,7 +9,7 @@
 	<br>
 	<h4>Alamat</h4>
 	<ul type="none">
-		<li> Jln. H. Naih No. 54 </li>
+		<li> Jln. H. Naih No. 54</li>
 	</ul>
 	<h4>Tempat Lahir</h4>
 	<ul type="none">
